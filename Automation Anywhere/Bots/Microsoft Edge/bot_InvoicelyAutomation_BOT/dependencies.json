@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\Microsoft Edge\\InvoicelyAutomation_BOT","manualDependencies":[],"scannedDependencies":[]}
+{"path":"Automation Anywhere\\Bots\\Microsoft Edge\\InvoicelyAutomation_BOT","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\Invoice_Data.xlsx"]}
